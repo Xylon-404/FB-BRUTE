@@ -34,7 +34,7 @@ XYLON
 
 
 #### SCREENSHOT
-![logo](https://github.com/Xylon-404/PIC/blob/main/Screenshot_20240702-154128.png)
+![logo](https://github.com/Xylon-404/PIC/blob/main/Screenshot_20240705-122328.png)
 ![logo](https://https://github.com/Xylon-404/PIC/blob/main/Screenshot_20240702-154109.png)
 
 
